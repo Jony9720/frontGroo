@@ -267,7 +267,7 @@ const RegistroServicio = () => {
                     >
                         <option value="efectivo">Efectivo</option>
                         <option value="tarjeta">Tarjeta</option>
-                        <option value="transferencia">Transferencia</option>
+                        
                     </select>
                 </label>
 
